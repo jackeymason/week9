@@ -1,9 +1,10 @@
 # src/puppy.js
 
 class Puppy {
-    constructor(name, breed) {
+    constructor(name, breed, dob) {
         this.name = name;
         this.breed = breed;
+        this.dob = dob;
     }
 
     speak() {
