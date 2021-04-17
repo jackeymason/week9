@@ -7,7 +7,7 @@ class Puppy {
     }
 
     speak() {
-        console.log(`${name} says 'arf'`);
+        console.log(`${name} says 'arf arf'`);
     }
 
     about() {
